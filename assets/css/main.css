@@ -885,7 +885,7 @@ h4 {
 .page-wrapper {
   height: 100%;
   width: 100%;
-  background: #ffffff center top repeat-y;
+  background: #ffffff url(../img/bg-pattern.png) center top repeat-y;
   padding: 40px 20px;
   color: #232630;
   font-size: 1em;
