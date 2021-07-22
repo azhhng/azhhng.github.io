@@ -57,7 +57,7 @@ html {
 
 body {
   font-size: 100%;
-  background-image: linear-gradient(to bottom, #fbbb5b 0%, #f9748f 19%, #f59870 60%, #fe9a8b 100%);
+  background-image: linear-gradient(to bottom, #9adb9d 0%, #82bf85 19%, #629664 60%, #3e6640 100%);
   padding: 20px;
   font-family: 'Didot', monospace; }
   @media screen and (max-width: 48em) {
@@ -70,7 +70,7 @@ a {
   position: relative;
   transition: .3s color; }
   a:hover {
-    color: #f59870; }
+    color: #3e6640; }
 
 body, h1, h2, h3, h4, h5, h6 {
   font-size-adjust: 0.5; }
@@ -132,7 +132,7 @@ h4 {
     content: "";
     width: 120px;
     height: 10px;
-    background-color: #f59870;
+    background-color: #3e6640;
     display: block;
     position: absolute;
     left: -10px;
@@ -145,7 +145,7 @@ h4 {
   padding-bottom: 20px; }
 
 .c-dot {
-  color: #fe9a8b; }
+  color: #3e6640; }
 
 .highlight-link {
   text-decoration: underline;
@@ -157,7 +157,7 @@ h4 {
     content: "";
     width: 40px;
     height: 2px;
-    background: #f59870;
+    background: #3e6640;
     position: absolute;
     bottom: -4px;
     left: -4px;
@@ -174,7 +174,7 @@ h4 {
     content: "\2022";
     position: absolute;
     left: 0;
-    color: #f59870; }
+    color: #3e6640; }
 
 .bullet-list a {
   text-decoration: underline; }
@@ -898,7 +898,7 @@ h4 {
 .s-about .portfolio-img {
   width: 100%;
   max-width: 300px;
-  box-shadow: 8px 8px 0px 0px #f59870; }
+  box-shadow: 8px 8px 0px 0px #3e6640; }
 
 .s-about .portfolio-img-wrapper a {
   margin-top: 30px;
@@ -931,7 +931,7 @@ h4 {
     z-index: 1;
     text-decoration: none; }
     .s-about .social-list a:before {
-      background-color: #f59870;
+      background-color: #3e6640;
       bottom: 0;
       content: ' ';
       display: block;
