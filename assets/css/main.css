@@ -57,7 +57,7 @@ html {
 
 body {
   font-size: 100%;
-  background-image: linear-gradient(to bottom, #9adb9d 0%, #82bf85 19%, #629664 60%, #3e6640 100%);
+  background-image: linear-gradient(to bottom, #b0f7b3 10%, #a1e3a4 39%, #92d195 60%, #84c287 100%);
   padding: 20px;
   font-family: 'Didot', monospace; }
   @media screen and (max-width: 48em) {
