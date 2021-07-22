@@ -70,7 +70,7 @@ a {
   position: relative;
   transition: .3s color; }
   a:hover {
-    color: #f2a057; }
+    color: #d4833b; }
 
 body, h1, h2, h3, h4, h5, h6 {
   font-size-adjust: 0.5; }
@@ -157,7 +157,7 @@ h4 {
     content: "";
     width: 40px;
     height: 2px;
-    background: #f2a057;
+    background: #bd6e28;
     position: absolute;
     bottom: -4px;
     left: -4px;
